@@ -26,7 +26,12 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 <br>
 <br>
 <br> 
-
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br> 
 
  ---
 #### Linguagens, Tecnologias e Ferramentas
