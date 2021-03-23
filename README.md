@@ -17,7 +17,7 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
  - 💻 Experiência em Front-end
  - 🎮 Já desenvolvi jogos em JS
 <br>
-----
+--
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>  
 
