@@ -28,8 +28,7 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
  - 🎲 Editor que uso VScode
  - 💻 Experiência em Front-end
  - 🎮 Já desenvolvi jogos em JS
-<br>
-
+ 
  ---
 #### Linguagens, Tecnologias e Ferramentas
 <p align="center">
