@@ -19,8 +19,9 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 <br>
 ---
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=buefy"/>  
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>  
 
+<br>
  
  ---
 #### Linguagens, Tecnologias e Ferramentas
