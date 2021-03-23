@@ -3,7 +3,20 @@ Meu nome é Lucas Gabriel, Moro no Brasil e sou programador desde 2020.🐱‍�
 
 Tenho mais conhecimento na área de Front-end, porém estudando para conhecer melhor toda a parte de Back-end e também o Mobile. Desejo chegar um dia a Fullstack.😜😎
 
+---
 
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>
+
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br> 
+<br>
+<br>
+
+---
 
 > 💬  "Ser desenvolvedor é uma viagem onde a próxima parada é a solução
 > de um problema"
@@ -19,16 +32,6 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 
  ---
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>
-
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br> 
-<br>
-<br>
 <br> 
 
  ---
