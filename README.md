@@ -21,7 +21,14 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 
  ---
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>  
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgf007&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/></td>
+    </tr>   
+</table>
+</center> 
 
 <br>
  
