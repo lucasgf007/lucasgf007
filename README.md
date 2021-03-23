@@ -31,10 +31,6 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 <br>
 
  ---
-
-<br> 
-
- ---
 #### Linguagens, Tecnologias e Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> &nbsp; &nbsp;
