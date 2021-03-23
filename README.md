@@ -18,7 +18,8 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
  - 🎮 Já desenvolvi jogos em JS
 <br>
 ---
-![Lucas Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgf007&show_icons=true&theme=dracula")
+
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=buefy"/>  
 
  
  ---
