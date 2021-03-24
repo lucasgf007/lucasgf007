@@ -1,11 +1,13 @@
 # Hello ✌
 
 <div style="text-align:center">
-  <a href="https://github.com/ErnaneJ">
+  <a href="https://github.com/lucasgf007">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasgf007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasgf007&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>  
 </div>
 
+---
 
 
 Meu nome é Lucas Gabriel, Moro no Brasil e sou programador desde 2020.🐱‍💻
@@ -14,18 +16,6 @@ Tenho mais conhecimento na área de Front-end, porém estudando para conhecer me
 
 ---
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasgf007&theme=dracula"/>
-
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br> 
-<br>
-<br>
-
----
 
 > 💬  "Ser desenvolvedor é uma viagem onde a próxima parada é a solução
 > de um problema"
