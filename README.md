@@ -1,4 +1,13 @@
 # Hello ✌
+
+<div style="text-align:center">
+  <a href="https://github.com/ErnaneJ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasgf007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasgf007&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+
+
 Meu nome é Lucas Gabriel, Moro no Brasil e sou programador desde 2020.🐱‍💻
 
 Tenho mais conhecimento na área de Front-end, porém estudando para conhecer melhor toda a parte de Back-end e também o Mobile. Desejo chegar um dia a Fullstack.😜😎
